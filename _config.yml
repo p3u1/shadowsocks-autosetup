@@ -1,0 +1,6 @@
+this:
+
+```yaml
+theme: jekyll-theme-cayman
+title: Shadowsocks Installer
+description: Secure proxy setup in 1-click
