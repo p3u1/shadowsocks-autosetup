@@ -14,3 +14,5 @@ This script installs a full-featured Shadowsocks-libev server on any Debian/Ubun
 wget -O ss-install.sh https://raw.githubusercontent.com/<your-username>/shadowsocks-autosetup/main/ss-install.sh
 chmod +x ss-install.sh
 ./ss-install.sh
+
+You can now use this on your VPS:
